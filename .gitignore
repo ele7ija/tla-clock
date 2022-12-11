@@ -1,0 +1,4 @@
+*.cfg
+*.dvi
+*.out
+states/
